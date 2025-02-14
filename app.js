@@ -26,9 +26,6 @@ function exibirTextoNaTela(tag, texto){ //funcao para exibir texto na tela
 
 }
 
-//teste
-//teste 2
-//teste3
 function exibirMensagemInicial(){
 
     exibirTextoNaTela('h1', 'Jogo número secreto'); 
